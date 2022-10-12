@@ -9,6 +9,7 @@ public class Matrice {
         int[][] A = { { 2, 6, 1 }, { 4, 9, 10 }, { 3, 5, 2 } };
         int[][] B = { { 1, 3, 7 }, { 4, 5, 8 }, { 7, 3, 9 } };
         int[][] C = new int[l][c];
+        //mon nouveau projet
         
         for (int i = 0; i < l; i++) {
             for (int j = 0; j < c; j++) {
